@@ -1,1 +1,2 @@
 primera nota del proyecto
+Segunda nota añadida al proyecto.
