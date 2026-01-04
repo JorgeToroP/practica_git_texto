@@ -1,3 +1,4 @@
 primer texto
 segunda nota
 cambios realizados en una rama secundaria
+<h2>Sobre el proyecto</h2>
